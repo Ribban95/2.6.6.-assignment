@@ -59,3 +59,13 @@ p {
         text-decoration: double;
 
 }
+
+.DKtips {
+        font-family: Gill Sans;
+        color: green;
+        text-decoration: double;
+}
+
+img {
+        border: 50px solid white;
+}
