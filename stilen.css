@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
         font-size: 50px;
         font-weight: lighter;
 }
@@ -44,5 +44,11 @@ h3 {
 }
 
 p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ldntips {
+        font-family: Gill Sans;
+        color: red;
+        text-decoration: double;
 }
